@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TapticDev
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python and js
+- 📫 How to reach me discord: tapticsv
